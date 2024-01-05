@@ -14,4 +14,4 @@ This is a console application based in c++.
 
 ## How to run the project?
 - git clone <url>
-- compile the source code with the c++ compiler of your choice
+- compile the source code with the c compiler of your choice
